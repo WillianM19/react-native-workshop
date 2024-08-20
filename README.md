@@ -26,7 +26,7 @@ Siga estas etapas para configurar o ambiente e instalar as dependências do proj
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd meu-projeto-react-native
+cd react-native-workshop
 ```
 
 3. Instale as dependências:
